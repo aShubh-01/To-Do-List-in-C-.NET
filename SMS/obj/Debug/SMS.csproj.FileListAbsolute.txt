@@ -1,0 +1,39 @@
+F:\C#\SMS\SMS\bin\Debug\SMS.exe.config
+F:\C#\SMS\SMS\bin\Debug\SMS.exe
+F:\C#\SMS\SMS\bin\Debug\SMS.pdb
+F:\C#\SMS\SMS\obj\Debug\SMS.Form1.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form2.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form3.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form4.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+F:\C#\SMS\SMS\obj\Debug\SMS.exe
+F:\C#\SMS\SMS\obj\Debug\SMS.pdb
+F:\C#\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+F:\C#\SMS\SMS\obj\Debug\SMS.Form7.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form5.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form6.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form8.resources
+F:\C#\SMS\SMS\obj\Debug\SMS.Form9.resources
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\SMS.exe.config
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\SMS.exe
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\SMS.pdb
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form1.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form2.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form3.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form4.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form5.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form6.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form7.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form8.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Form9.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.exe
+B:\Codes\C# Codes\SMS\SMS\obj\Debug\SMS.pdb
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\Database.mdf
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\Database_log.ldf
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\SMS.mdf
+B:\Codes\C# Codes\SMS\SMS\bin\Debug\SMS_log.ldf
