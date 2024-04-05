@@ -12,10 +12,10 @@ Steps to run the program -
 4. Right click on the 'SMS.mdf' and select 'Properties', you'll see a property called 'Connection String' with 'Data Source='. Copy the entire string from 'Data Source=....' all the way upto the end
    '....Security=True'. This is basically the path where you stored your project files and where the database is located.
    
-6. Once you have copied the string, paste it in specific places, for that navigate to 'View -> Solution Explorer' or just hit 'ctrl + alt + L' which will open Solution Explorer. Now open Form1.cs and hit F7, this      will open its source code.
+5. Once you have copied the string, paste it in specific places, for that navigate to 'View -> Solution Explorer' or just hit 'ctrl + alt + L' which will open Solution Explorer. Now open Form1.cs and hit F7, this      will open its source code.
    
-7. There you will see a connection object named 'SqlConnection con = new SqlConnection(@"")' Paste the copied connection string within these brackets right between the double quotes "".
+6. There you will see a connection object named 'SqlConnection con = new SqlConnection(@"")' Paste the copied connection string within these brackets right between the double quotes "".
    It should look like this       > SqlConnection con = new SqlConnection(@"___Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""B:\Codes\C# Codes\SMS\SMS\SMS.mdf"";Integrated Security=True___");
    Paste it in Form1.cs, Form3.cs, Form4.cs, Form5.cs, Form7.cs, Form8.cs & Form9.cs Source Code.
 
-9. Save every form and hit Start, your program should work.
+7. Save every form and hit Start, your program should work.
