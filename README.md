@@ -16,7 +16,7 @@ Steps to run the program -
    
 7. There you will see a connection object named 'SqlConnection con = new SqlConnection(@"")' Paste the copied connection string within these brackets right between the double quotes "".
    It should look like this
-   ___SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""B:\Codes\C# Codes\SMS\SMS\SMS.mdf"";Integrated Security=True");___
+   SqlConnection con = new SqlConnection(@"___Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""B:\Codes\C# Codes\SMS\SMS\SMS.mdf"";Integrated Security=True___");
    Paste it in Form1.cs, Form3.cs, Form4.cs, Form5.cs, Form7.cs, Form8.cs & Form9.cs Source Code.
 
 8. Save every form and hit Start, your program should work.
