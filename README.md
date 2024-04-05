@@ -19,4 +19,4 @@ Steps to run the program -
    SqlConnection con = new SqlConnection(@"___Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""B:\Codes\C# Codes\SMS\SMS\SMS.mdf"";Integrated Security=True___");
    Paste it in Form1.cs, Form3.cs, Form4.cs, Form5.cs, Form7.cs, Form8.cs & Form9.cs Source Code.
 
-8. Save every form and hit Start, your program should work.
+9. Save every form and hit Start, your program should work.
