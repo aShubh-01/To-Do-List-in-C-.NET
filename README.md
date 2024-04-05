@@ -14,7 +14,7 @@ Steps to run the program -
    
 5. Once you have copied the string, paste it in specific places, for that navigate to 'View -> Solution Explorer' or just hit 'ctrl + alt + L' which will open Solution Explorer. Now open _Form1.cs_ and hit F7, this      will open its source code.
    
-6. There you will see a connection object named 'SqlConnection con = new SqlConnection(@"")' Paste the copied connection string within these brackets right between the double quotes "".
+6. There you will see a connection object named 'SqlConnection con = new SqlConnection(@"")' on line 16 probably. Paste the copied connection string within these brackets right between the double quotes "".
    It should look like this       > _SqlConnection con = new SqlConnection(@"___Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""B:\Codes\C# Codes\SMS\SMS\SMS.mdf"";Integrated Security=True___");_
    Paste it in _Form1.cs, Form2.cs, Form3.cs, Form4.cs, Form5.cs, Form7.cs, Form8.cs & Form9.cs_ Source Code.
 
