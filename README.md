@@ -19,3 +19,5 @@ Steps to run the program -
    Paste it in _Form1.cs, Form2.cs, Form3.cs, Form4.cs, Form5.cs, Form7.cs, Form8.cs & Form9.cs_ Source Code.
 
 7. Save every form and hit Start, your program should work.
+
+Incase you use SQL Server Management Studio, you can get the queries to all tables and database in the '_SQLQuery1.sql_'. Then you can setup your own database.
